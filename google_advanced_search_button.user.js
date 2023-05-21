@@ -3,7 +3,7 @@
 // @namespace   Violentmonkey Scripts
 // @match       *://www.google.*/*
 // @grant       none
-// @licence     MIT
+// @license     MIT
 // @version     1.0
 // @author      slayernominee
 // @description add an button for the google advanced search in the google home search page instead of the random search button
