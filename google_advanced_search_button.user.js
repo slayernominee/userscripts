@@ -4,7 +4,7 @@
 // @match       *://www.google.*/*
 // @grant       none
 // @license     MIT
-// @version     1.0
+// @version     1.1
 // @author      slayernominee
 // @description add an button for the google advanced search in the google home search page instead of the random search button
 // ==/UserScript==
